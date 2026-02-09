@@ -10,6 +10,6 @@ This repository is created as part of my class
 **PLA1006 – Lateral Thinking**.
 It contains my introduction video for the course.
 
-[https://drive.google.com/file/d/1VF7EHjeBeHimhnIvaaus8F2SqFmIQ_H7/view?usp=drive_link](intro video.mp4)
+[https://drive.google.com/file/d/1VF7EHjeBeHimhnIvaaus8F2SqFmIQ_H7/view?usp=drive_link] (intro video.mp4)
 
 Thank you for visiting!
