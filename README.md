@@ -1,9 +1,6 @@
 # Introduction Video 🎥
 
-Hello!
-
-## About Me
-Hi, I’m **Lavanya**. I’m a student who enjoys learning new things and exploring creative and logical ways of thinking.
+Hello! I’m **Lavanya**. I’m a student who enjoys learning new things and exploring creative and logical ways of thinking.
 
 ## Info
 This repository is created as part of my class
